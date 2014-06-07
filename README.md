@@ -1,4 +1,4 @@
-gnome-terminal-ir_black
+mate-terminal-ir_black
 ========================
 
 ir_black theme for mate terminal.
